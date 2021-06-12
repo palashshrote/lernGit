@@ -5,6 +5,6 @@ public class Sum
         int a = 5;
         int b = 12;
 
-        System.out.println("HI");
+        System.out.println("Hello world");
     }
 }
